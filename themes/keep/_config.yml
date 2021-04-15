@@ -37,7 +37,7 @@ style:
   # First screen
   first_screen:
     enable: true
-    background_img: https://521plus.oss-cn-beijing.aliyuncs.com/record/good-bg.jpg   # You can use local image or image external link
+    background_img: https://521plus.oss-cn-beijing.aliyuncs.com/record/new-bg-two.jpg   # You can use local image or image external link
     description: 生命不息，折腾不止
 
   # Scroll style settings 2
